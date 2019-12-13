@@ -217,8 +217,13 @@ text-align: center;
 	margin: 20px auto;
 	font-weight: 600;
 	text-decoration: none;
-	color: black;
+	color: grey;
 	box-shadow: 2px 5px 3px 0
+}
+
+.button:hover{
+	color:black;
+	transition: .5s;
 }
 
 .central-image{
