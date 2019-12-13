@@ -220,6 +220,34 @@ text-align: center;
 .line, .line-2 {
 	border-bottom: 3px solid black;
 	padding: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 	
+	}
+
+	.footer-info{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+        align-items: flex-start;
+		margin: 62px;
+		}
+	
+	
+	.footer-content .footer-info{
+		width: 10%;
+	}
+	
+	
+	.footer-info a{
+		line-height: 24px;
+		color: black;
+		text-decoration: none;
+	}
+
+	.copyright {
+		width: 80%;
+		margin: 0 auto;
+		font-weight: 600;
+		text-align: center;
+		padding: 40px;
 	}
