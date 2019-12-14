@@ -388,10 +388,11 @@ text-align: center;
 	}
 
 	.services-info-img{
-		display: block;
+		
 		margin-top: -29%;
 		margin-left: 55%;
-		width: 40%;
+		width: 28%;
+		
 	}
 
 	.copyright {
